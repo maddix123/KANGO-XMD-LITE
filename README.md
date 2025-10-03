@@ -162,7 +162,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/OfficialKango/KANGO-XMD.git
+git clone https://github.com/maddix123/KANGO-XMD.git
 cd KANGO-XMD 
 npm start
 ```
